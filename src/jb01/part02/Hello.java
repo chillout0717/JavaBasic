@@ -32,6 +32,6 @@ public class Hello
 	   ex c:\work>dir
 	
 	3. 실행
-	 3) 실행 ==> java 파일이름 (확장자 없음)
+	 1) 실행 ==> java 파일이름 (확장자 없음)
 	   ex c:\work>java Hello
 */
